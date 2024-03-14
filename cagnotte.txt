@@ -1,2 +1,2 @@
-modification de la ligne 1
+modification de la ligne 1 avec ajout texte
 ajout de la ligne 2
