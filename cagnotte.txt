@@ -1,4 +1,2 @@
-ajout ligne 0
-modification 
-ajout ligne entre 1 et 2
+modification de la ligne 1
 ajout de la ligne 2
